@@ -1,2 +1,2 @@
-API_KEY_file = "PK7KLBXR8WZLHSYPACD9"
-SECRET_KEY_file = "ypYGzY002abVOdotc0XFyrbLgRPVShWLNj7gatLs"
+API_KEY_file = ""
+SECRET_KEY_file = ""
